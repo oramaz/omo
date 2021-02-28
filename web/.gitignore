@@ -1,0 +1,3 @@
+node_modules/
+web/static/dist
+db/test_data/

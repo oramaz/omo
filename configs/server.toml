@@ -1,0 +1,3 @@
+bind_addr = ":8000"
+database_url = "host=localhost port=5432 dbname=omo_dev user=postgres password=postgres"
+session_key = "dead6aa6aa7e7439212ee2866f5eefc81967e6194a8258953619eca376253d53571a880785b6bccd1bd117ea5f3065985e2d98ef21a043dca92d323fa43d86bd419a407a5a08e4d0f81162c2a16e3255c6cab17f1568c42ed03778585d117a211dc79bb3b6ce6ca945fe978c8dddfb723fba57eddf8fcf765f33c766e362f654"
